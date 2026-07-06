@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+
+
+![](https://komarev.com/ghpvc/?username=kvzanaokiji&style=flat-square&color=48CAE4&label=❄⋆⁺₊)
+
+
+
+
+<img width="736" height="1133" alt="Kuzan" src="https://github.com/user-attachments/assets/56a9cc23-c36c-4ca5-8ed5-9715244b6115" />
 
 <!--
 **kvzanaokiji/kvzanaokiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

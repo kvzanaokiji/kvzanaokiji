@@ -1,12 +1,11 @@
 <div align="center">
 
 
-![](https://komarev.com/ghpvc/?username=kvzanaokiji&style=flat-square&color=48CAE4&label=❄⋆⁺₊_)
+![](https://komarev.com/ghpvc/?username=kvzanaokiji&style=flat-square&color=306ECD&label=adventure_time!)
 
 
 
-
-<img width="736" height="1133" alt="Kuzan" src="https://github.com/user-attachments/assets/56a9cc23-c36c-4ca5-8ed5-9715244b6115" />
+<img width="1200" height="675" alt="IMG_9386" src="https://github.com/user-attachments/assets/743eed63-0005-43fe-9d4e-b6591fbabbbe" />
 
 <!--
 **kvzanaokiji/kvzanaokiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

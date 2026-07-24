@@ -1,11 +1,11 @@
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=kvzanaokiji&style=flat-square&color=0D1117&label=FOULS) 
 
-![](https://komarev.com/ghpvc/?username=kvzanaokiji&style=flat-square&color=306ECD&label=adventure_time!)
+[ata](https://pluuutoo.atabook.org/)
 
+<img width="736" height="414" alt="4121dc8ea33466f104e0f660eda03181" src="https://github.com/user-attachments/assets/a3e7f13b-cdea-4655-a33e-1b7e24a7ce31" />
 
-
-<img width="1200" height="675" alt="IMG_9386" src="https://github.com/user-attachments/assets/743eed63-0005-43fe-9d4e-b6591fbabbbe" />
 
 <!--
 **kvzanaokiji/kvzanaokiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
